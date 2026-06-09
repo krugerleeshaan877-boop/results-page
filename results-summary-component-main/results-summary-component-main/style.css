@@ -1,0 +1,33 @@
+.box {
+    background: white;
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+   box-shadow: 0 4px 8px black;
+    border-radius: 10px;
+    height:400px;
+}
+
+#Result {
+    background: plum;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+}
+#align{
+    display: flex;
+}
+.results{
+    display:block;
+    background-image: linear-gradient(to bottom, hsla(256, 72%, 46%, 1) ,hsla(256, 72%, 46%, 1));
+    width:100px;
+    height:350px;
+}
+button{
+    width:200px;
+    height:30px;
+    background-color: pink;
+    border-radius:15px;
+}
